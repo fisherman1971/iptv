@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/UWuTmBC.jpg" , 100% Auto Moto TV Bulgaria
+#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/UWuTmBC.jpg" , 100% Auto Moto TV BG
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/Nr33fOb.png" , MotorTrend Italy
+#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/Nr33fOb.png" , MotorTrend IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 
-#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/elkcKum.png" , Teleblu Foggia Italy
+#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/elkcKum.png" , Teleblu Foggia IT
 https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/hzyzJc0.png" , Telefriuli Italy
+#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/hzyzJc0.png" , Telefriuli IT
 http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
 
 #EXTINF:-1 group-title="HUNTING" tvg-logo="https://i.imgur.com/3qB3JL7.png" , Caçavision Portugal
@@ -48,13 +48,16 @@ http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/gabVqZJ.png" , AlbMUSIC Albania
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/y674VR0.jpg" , EBC TV Iran
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Q1UOlkA.png" , EUROAL Albania
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qlNdRKQ.png" , Gabruu TV India
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qlNdRKQ.png" , Gabruu TV IN
 http://104.237.60.234/live/gabruutv.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/2gAHTiD.png" , HOBOE Russia
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/2gAHTiD.png" , HOBOE RU
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/4X2Px8w.png" , Kayhan TV Afghanistan
@@ -75,13 +78,19 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/7oCCFBT.jpg" , NR1 TV
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jRo8nhN.png" , ONE HD 1
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jRo8nhN.png" , ONE HD 2
+http://rtmp.one.by:2300
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/foIqxMD.png" , POWER HD TURK
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/e54t8pC.png" , POWER HD
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/tj0Yia8.png" , Radio TV Priggipesa Greece
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/tj0Yia8.png" , Radio TV Priggipesa GR
 https://itv.streams.ovh/priggipesa/priggipesa/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/0ujfLYr.png" , RU TV HD
@@ -90,10 +99,10 @@ https://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/YoJIufI.jpg" , Russian Music Box
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/nl6ogpP.png" , Song TV Armenia
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/nl6ogpP.png" , Song TV AR
 http://songtvam.ru:8060/hd/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/l492qH1.jpg" , Song TV Russia
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/l492qH1.jpg" , Song TV RU
 http://songtvru.ru:8060/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/EOFpUra.jpg" , Sky Folk TV North Macedonia
@@ -105,10 +114,13 @@ http://vietcago.net/vstv/bentretv.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/yeYeVvq.png" , TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qCLICfC.jpg" , VIVA TV RU
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/GmgibYW.jpg" , Wanasah TV UAE
 https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/YBZecQA.jpg" , Xalastra TV Greece
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/YBZecQA.jpg" , Xalastra TV GR
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 
 #EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/oVBCXY3.png" , TV Hronka Slovakia
@@ -117,7 +129,7 @@ http://213.81.153.221:8080/hronka
 #EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/CqwVySN.png" , TV1 KG Kyrgyzstan
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/ErFj6rR.png" , Xplore TV Greece
+#EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/ErFj6rR.png" , Xplore TV GR
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="" https://i.imgur.com/w4J9hf1.png, adjarasport 1
@@ -129,7 +141,7 @@ http://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/LIk85IA.png" , BamBarBia TV Ukraine					 	
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" , This is Bulgaria
+#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" , This is BG
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 
 #EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/nCBtpGO.png" , Travel Guide TV Ukraine						
