@@ -1,10 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/o9EFYo5.png" , ALMANYADA TURK TV
+http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
+
 #EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/i5v87j1.jpg" , BLUTV Aksiyon
 https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
 
 #EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/K7txCRy.jpg" , BLUTV Komedi
 https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+
+#EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/VA9xKv1.png" , Cine5 TV
+http://win1.yayin.com.tr/cine5/cine5/.m3u8
+
+#EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/TCTYqrZ.png" , LEBLEBI TV
+http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPOR" tvg-logo="https://i.imgur.com/BCGijxd.png" , adjarasport 1
 http://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
