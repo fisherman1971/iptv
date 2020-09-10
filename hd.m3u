@@ -45,6 +45,21 @@ http://win1.yayin.com.tr/cine5/cine5/.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/TCTYqrZ.png" , LEBLEBI TV
 http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/rvQhvNj.png" , 1 HD MUSIC TELEVISION RU
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/0SrZD5r.png" , 88 Stereo Costa Rica
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/ggOxEmy.png" , 91 NRG GR
+https://w1.viastreaming.net/onweb/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/wvNSQ6v.png" , Abkhaz GE
+http://tv.cdn.xsg.ge/abkhaz/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/yBfYHUs.jpg" , ACB TV RU
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/gabVqZJ.png" , AlbMUSIC Albania
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 
@@ -69,6 +84,12 @@ https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/oyCuBl4.png" , Kral TV
 https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/uGhYkCv.png" , Kronehit HD Austria
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/uisopuM.png" , Nago TV Haiti
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Fjdu8LO.png" , Navahang TV Iran
 http://163.172.134.85/hls/stream.m3u8
 
@@ -78,17 +99,32 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/7oCCFBT.jpg" , NR1 TV
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" , NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/S7TKnU1.jpg" , O!2 Russia
+https://strm.yandex.ru/kal/o2/o20.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jRo8nhN.png" , ONE HD 1
 http://rtmp.one.by:1300
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jRo8nhN.png" , ONE HD 2
 http://rtmp.one.by:2300
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/uZgjd9S.jpg" , Persiana Music
+http://163.172.147.113/hls/stream.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/foIqxMD.png" , POWER HD TURK
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/e54t8pC.png" , POWER HD
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/fM4KCk9.png" , Radio Javan Iran
+https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/2C4bAZs.jpg" , Radio Schanson RU
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/tj0Yia8.png" , Radio TV Priggipesa GR
 https://itv.streams.ovh/priggipesa/priggipesa/playlist.m3u8
@@ -116,6 +152,9 @@ https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qCLICfC.jpg" , VIVA TV RU
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jTo8wxj.png" , Volzhsky Plus Ukraine
+http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/GmgibYW.jpg" , Wanasah TV UAE
 https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
