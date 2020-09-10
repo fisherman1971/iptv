@@ -15,7 +15,7 @@ http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
 #EXTINF:-1 group-title="HUNTING" tvg-logo="https://i.imgur.com/3qB3JL7.png" , Caçavision Portugal
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.imgur.com/BO9f3sD.png" , Fatstone TV Norway
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.imgur.com/hAP31zj.jpg" , Norway Live
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
 #EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/djl2Hcl.png" , Kral Pop
@@ -54,7 +54,7 @@ http://win1.yayin.com.tr/cine5/cine5/.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/TCTYqrZ.png" , LEBLEBI TV
 http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.imgur.com/BCGijxd.png" , adjarasport 1
+#EXTINF:-1 group-title="SPOR" tvg-logo="" https://i.imgur.com/w4J9hf1.png, adjarasport 1
 http://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 
 #EXTINF:-1 group-title="SPOR" tvg-logo="https://i.imgur.com/w4J9hf1.png" , adjarasport 2
@@ -69,7 +69,7 @@ http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 #EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/D17rLXt.png" , Travel Guide TV Ukraine						
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 
-#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.imgur.com/pQd16bO.png" , Haber 61
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.imgur.com/pQd16bO.png" , haber 61 TV
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
 
 
