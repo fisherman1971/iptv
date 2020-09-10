@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.imgur.com/pQd16bO.png" , Haber 61 Trabzon
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
