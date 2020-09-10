@@ -84,6 +84,18 @@ http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/TUoqzsg.jpg" , Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/WlrcyMe.png" , Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/QZs6DFe.jpg" , Miami TV Colombia
+http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/ioYs6Tk.jpg" , Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/7I307pv.png" , Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
+
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" ,  Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
