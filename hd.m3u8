@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.imgur.com/pQd16bO.png" , Haber 61 Trabzon
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.imgur.com/BCGijxd.png" , adjarasport 1
+http://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+
+#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.imgur.com/BCGijxd.png" , adjarasport 2
+http://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
+
+#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.imgur.com/pQd16bO.png" , Haber 61
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
