@@ -12,6 +12,117 @@ https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
 #EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/hzyzJc0.png" , Telefriuli IT
 http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/gRvEH4v.png" , AlbUK TV Albania
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/w06sLAh.jpg" , Bollywood Now IN
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" , Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/8D1LrKO.png" , Canela TV Ecuador
+http://inliveserver.com:1935/8074/8074/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" , Congo Planet Television 1
+https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" , Congo Planet Television 2
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/5i2PLNq.png" , CPEtv Argentina
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/3APPmFw.png" , CSK TV HD IN
+http://185.105.4.244:1935/livesp/csktv1/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/ANW1pIH.png" , Ebenezer TV Honduras
+http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/NcgtFek.png" , G TV Bangladesh
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/cbIdMsw.png" , Globus TV Sicilia IT
+https://flash2.xdevel.com/globusradiocam/globusradiocam/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/frGquQc.png" , Hechos TV Ecuador
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/E2Mpuoz.png" , HM TV 33 Dominique
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/w82VmmO.png" , ISAAC TV Pakistan
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/QAJnhQP.png" , Jaffna TV Sri Lanka
+http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/9hhjpgw.png" , Kantipur TV Nepal
+https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/M5i4hfh.png" , Kuriakos TV Portugal
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/h9ndSjw.png" , Luys TV AR
+http://luyse.mediatriple.net/luystv/luystv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/dNB92lj.png" , Manoto Iran
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/cNW54Mp.png" , Maori Television New Zealand
+https://i.mjh.nz/nz/tv.13.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Sbv9mq5.png" , Microvision 10 Dominique
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/0w7uJUT.jpg" , MostVideo TV Ukraine						
+https://w4.mostvideo.tv/tv/ch1.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/iviMrbO.jpg" , MTV NO
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UJR4KRg.png" , Noroeste TV ES
+https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/LDcsCZC.png" , RDS Social TV IT
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/mekD49a.png" , RMM Marche IT
+http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Nx7sVqb.png" , Super TV 55 Santiago Dominique
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/yrJVHTd.png" , Te Reo New Zealand
+https://i.mjh.nz/nz/tv.20.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/iE1xhA5.png" , Telenord 10 Dominique
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/iE1xhA5.png" , Telenord 12 Dominique
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/iE1xhA5.png" , Telenord 8 Dominique
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/5rQOLzm.png" , TV Aurora Croatia
+http://85.94.81.190:8844/sdi/aurora.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/WHlCDVH.png" , TV Boin Albania
+http://tva.fastbroad.com/i/tvboin_1@380599/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/v2VTYhT.png" , Vozrozhdenie Ukraine		
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/lUYKEDE.png" , WOW! TV Chile
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/kcFrMog.png" , YourTime TV Iran
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/VyKnaJn.png" , Zjarr TV Albania
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="FASHION" tvg-logo="https://i.imgur.com/VI0fLHb.png" , FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
@@ -41,6 +152,36 @@ http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="HUNTING" tvg-logo="https://i.imgur.com/3qB3JL7.png" , Caçavision Portugal
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/y1LQk44.png" , Aniplus Indonesia
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/myuUvgO.jpg" , Aniplus Philippines
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zPQaGbt.jpg" , Hodhod Iran
+http://51.158.184.234/hls/stream.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/OEIF10B.png" , IBC Kids India
+https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/KNDj0Yt.png" , KTRK Balastan Kyrgyzstan
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/tfc2BYM.png" , Kuriakos Kids Portugal
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/YcRtl3M.png" , Rotana Kids Saudi Arabia
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/RzPOwqI.png" , Spacetoon Syria
+https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/29DQNPy.png" , Tele Medellin Colombia
+https://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/dtHaTAy.png" , TeleToon+ France
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="LIFE" tvg-logo="https://i.imgur.com/PsJIYoy.png" , Horse & Country TV
 https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
