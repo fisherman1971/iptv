@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" , 100% Auto Moto TV Bulgaria
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/Nr33fOb.png" , MotorTrend Italy
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+
+#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/elkcKum.png" , Teleblu Foggia Italy
+https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/hzyzJc0.png" , Telefriuli Italy
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+
+#EXTINF:-1 group-title="HUNTING" tvg-logo="https://i.imgur.com/3qB3JL7.png" , Caçavision Portugal
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.imgur.com/BO9f3sD.png" , Fatstone TV Norway
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+
 #EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/djl2Hcl.png" , Kral Pop
 https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 
