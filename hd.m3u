@@ -81,4 +81,13 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="YEREL" tvg-logo="https://i.imgur.com/pQd16bO.png" , haber 61 TV
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
 
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/TUoqzsg.jpg" , Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" ,  Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+
+
+
 
