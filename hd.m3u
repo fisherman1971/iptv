@@ -27,26 +27,50 @@ https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://i.imgur.com/hAP31zj.jpg" , Norway Live
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
-#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/djl2Hcl.png" , Kral Pop
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.imgur.com/pQd16bO.png" , haber 61 TV
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/o9EFYo5.png" , ALMANYADA TURK TV
+http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/i5v87j1.jpg" , BLUTV Aksiyon
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/K7txCRy.jpg" , BLUTV Komedi
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/VA9xKv1.png" , Cine5 TV
+http://win1.yayin.com.tr/cine5/cine5/.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/TCTYqrZ.png" , LEBLEBI TV
+http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Q1UOlkA.png" , EUROAL Albania
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/djl2Hcl.png" , Kral Pop
 https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 
-#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/oyCuBl4.png" , Kral TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/oyCuBl4.png" , Kral TV
 https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 
-#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/qlI3mIz.jpg" , NR1 TURK
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qlI3mIz.jpg" , NR1 TURK
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/7oCCFBT.jpg" , NR1 TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/7oCCFBT.jpg" , NR1 TV
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/foIqxMD.png" , POWER HD TURK
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/foIqxMD.png" , POWER HD TURK
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/e54t8pC.png" , POWER HD
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/e54t8pC.png" , POWER HD
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/0ujfLYr.png" , RU TV HD
 https://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/YoJIufI.jpg" , Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/nl6ogpP.png" , Song TV Armenia
 http://songtvam.ru:8060/hd/playlist.m3u8
@@ -57,7 +81,7 @@ http://songtvru.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/EOFpUra.jpg" , Sky Folk TV North Macedonia
 http://skyfolk.mk/live.m3u8
 
-#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/yeYeVvq.png" , TRT Muzik
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/yeYeVvq.png" , TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/GmgibYW.jpg" , Wanasah TV UAE
@@ -75,25 +99,10 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/ErFj6rR.png" , Xplore TV Greece
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
-#EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/o9EFYo5.png" , ALMANYADA TURK TV
-http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
-
-#EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/i5v87j1.jpg" , BLUTV Aksiyon
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-
-#EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/K7txCRy.jpg" , BLUTV Komedi
-https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
-
-#EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/VA9xKv1.png" , Cine5 TV
-http://win1.yayin.com.tr/cine5/cine5/.m3u8
-
-#EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/TCTYqrZ.png" , LEBLEBI TV
-http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPOR" tvg-logo="" https://i.imgur.com/w4J9hf1.png, adjarasport 1
+#EXTINF:-1 group-title="SPORT" tvg-logo="" https://i.imgur.com/w4J9hf1.png, adjarasport 1
 http://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 
-#EXTINF:-1 group-title="SPOR" tvg-logo="https://i.imgur.com/w4J9hf1.png" , adjarasport 2
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/w4J9hf1.png" , adjarasport 2
 http://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 
 #EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/LIk85IA.png" , BamBarBia TV Ukraine					 	
@@ -104,9 +113,6 @@ http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 
 #EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/nCBtpGO.png" , Travel Guide TV Ukraine						
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-
-#EXTINF:-1 group-title="YEREL" tvg-logo="https://i.imgur.com/pQd16bO.png" , haber 61 TV
-http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/TUoqzsg.jpg" , Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
