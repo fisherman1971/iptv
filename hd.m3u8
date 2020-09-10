@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/djl2Hcl.png" , Kral Pop
+https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/oyCuBl4.png" , Kral TV
+https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/qlI3mIz.jpg" , NR1 TURK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/7oCCFBT.jpg" , NR1 TV
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/foIqxMD.png" , POWER HD TURK
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/e54t8pC.png" , POWER HD
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
+
+#EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/yeYeVvq.png" , TRT Muzik
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+
 #EXTINF:-1 group-title="SINEMA" tvg-logo="https://i.imgur.com/o9EFYo5.png" , ALMANYADA TURK TV
 http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
 
