@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" , 100% Auto Moto TV Bulgaria
+#EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/UWuTmBC.jpg" , 100% Auto Moto TV Bulgaria
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:-1 group-title="AUTO" tvg-logo="https://i.imgur.com/Nr33fOb.png" , MotorTrend Italy
@@ -66,7 +66,7 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" , This is Bulgaria
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 
-#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/D17rLXt.png" , Travel Guide TV Ukraine						
+#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/nCBtpGO.png" , Travel Guide TV Ukraine						
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 
 #EXTINF:-1 group-title="YEREL" tvg-logo="https://i.imgur.com/pQd16bO.png" , haber 61 TV
