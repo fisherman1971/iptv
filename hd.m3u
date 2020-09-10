@@ -15,11 +15,20 @@ http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/gRvEH4v.png" , AlbUK TV Albania
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/SaC23XT.jpg" , Balti TV Moldova
+http://77.89.199.174:8000/play/1024/index.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/w06sLAh.jpg" , Bollywood Now IN
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" , Canada Star TV
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/SRfhUvf.png" , Boss Brothers TV Congo
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" , Canada Star TV Iran
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/77hncU9.png" , Canada Star TV Iran
+https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/8D1LrKO.png" , Canela TV Ecuador
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
@@ -222,20 +231,50 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/ggOxEmy.png" , 91 NRG GR
 https://w1.viastreaming.net/onweb/live/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/IgwQ7o5.png" , Aathavan TV IN
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/wvNSQ6v.png" , Abkhaz GE
 http://tv.cdn.xsg.ge/abkhaz/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/yBfYHUs.jpg" , ACB TV RU
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/9FtlMlF.png" , Akaram Mix IN
+http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/gabVqZJ.png" , AlbMUSIC Albania
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/mW6c2QR.png" , Baraza TV GR
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/mW6c2QR.png" , Baraza TV Classic Hits GR
+https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/mW6c2QR.png" , Baraza TV Greek Music Hits GR
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/AFT43kx.png" , Cadena Elite ES
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/32zvLBP.png" , Cannali TV GR
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/9BYQ1le.png" , Chau TV Latvia
+https://video.chaula.tv/hls/live/high/playlist_high.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Da5V8bP.png" , Colosal TV Costa Rica
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/y674VR0.jpg" , EBC TV Iran
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Q1UOlkA.png" , EUROAL Albania
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Ju3mLgq.png" , Fresh TV RU
+https://strm.yandex.ru/kal/fresh/fresh0.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qlNdRKQ.png" , Gabruu TV IN
 http://104.237.60.234/live/gabruutv.m3u8
@@ -254,6 +293,12 @@ https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/uGhYkCv.png" , Kronehit HD Austria
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/96FfLIj.jpg" , Lèeekô TV FR
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/NnNmvbK.png" , M2 Ukraine								
+https://live.m2.tv/hls3/stream.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/uisopuM.png" , Nago TV Haiti
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
@@ -282,14 +327,29 @@ http://rtmp.one.by:2300
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/uZgjd9S.jpg" , Persiana Music
 http://163.172.147.113/hls/stream.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://i.imgur.com/100uuWA.png" , Play TV GR
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/foIqxMD.png" , POWER HD TURK
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/e54t8pC.png" , POWER HD
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/ubEUBmB.png" , Radio 21 TV DE
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Vmxfdmy.png" , RTL 102.5 TV IT
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/ekRMtra.png" , Radio Contact FR
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/fM4KCk9.png" , Radio Javan Iran
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/DfugVgy.png" , Radio Piter Pan TV IT
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/2C4bAZs.jpg" , Radio Schanson RU
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
@@ -297,11 +357,26 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/tj0Yia8.png" , Radio TV Priggipesa GR
 https://itv.streams.ovh/priggipesa/priggipesa/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="ttps://i.imgur.com/IktuwaW.jpg" , Raasi Music IN
+http://singamcloud.in/rasimusic/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qz2R7ca.png" , Retro Plus TV Peru
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/0ujfLYr.png" , RU TV HD
 https://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/YoJIufI.jpg" , Russian Music Box
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/LsacUVi.png" , Santhora TV IN
+http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/rBAup75.png" , Santhora TV (DE) IN
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/EOFpUra.jpg" , Sky Folk TV North Macedonia
+http://skyfolk.mk/live.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/nl6ogpP.png" , Song TV AR
 http://songtvam.ru:8060/hd/playlist.m3u8
@@ -309,14 +384,20 @@ http://songtvam.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/l492qH1.jpg" , Song TV RU
 http://songtvru.ru:8060/hd/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/EOFpUra.jpg" , Sky Folk TV North Macedonia
-http://skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Mrj4D9n.png" , Sonus FM Germany
+http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" , Telemax Mexico
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/HsYLNkF.png" , THBT Vietmam
 http://vietcago.net/vstv/bentretv.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/yeYeVvq.png" , TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Ll6GlqY.png" , V2Beat BG
+http://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qCLICfC.jpg" , VIVA TV RU
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
