@@ -45,8 +45,26 @@ https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/e54t8pC.png" , POWER HD
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/0ujfLYr.png" , RU TV HD
+https://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/nl6ogpP.png" , Song TV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/l492qH1.jpg" , Song TV Russia
+http://songtvru.ru:8060/hd/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/EOFpUra.jpg" , Sky Folk TV North Macedonia
+http://skyfolk.mk/live.m3u8
+
 #EXTINF:-1 group-title="MUZIK" tvg-logo="https://i.imgur.com/yeYeVvq.png" , TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/GmgibYW.jpg" , Wanasah TV UAE
+https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/YBZecQA.jpg" , Xalastra TV Greece
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 
 #EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/oVBCXY3.png" , TV Hronka Slovakia
 http://213.81.153.221:8080/hronka
