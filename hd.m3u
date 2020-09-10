@@ -228,8 +228,17 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/PRgvj4c.png" , 1 Music Channel RO
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/WfAU7pB.png" , 3 Tamil TV IN
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/c59VWgF.jpg" , 4FUN TV PL
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/sMgWdff.png" , 4K Tamil TV IN
+http://184.173.179.163:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/EaHWWNl.jpg" , 7Star TV IN
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/0SrZD5r.png" , 88 Stereo Costa Rica
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
@@ -252,6 +261,9 @@ http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/gabVqZJ.png" , AlbMUSIC Albania
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/nOIcXJ6.png" , Aus Tamil IN
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/mW6c2QR.png" , Baraza TV GR
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 
@@ -260,6 +272,9 @@ https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/mW6c2QR.png" , Baraza TV Greek Music Hits GR
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/BPS22GM.png" , BritAsia TV IN
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/AFT43kx.png" , Cadena Elite ES
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
@@ -275,6 +290,9 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/9fR1Gfh.png" , Company TV IT
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TIc76op.png" , Deepam TV IN
+http://95.217.218.87/deepamtvhls/live.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/gkzlRED.jpg" ,  Den Haag TV NL
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
@@ -293,6 +311,9 @@ http://104.237.60.234/live/gabruutv.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Dzfjea6.png" ,  GO-RTV NL
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/PqZe2ej.png" , Guria TV GE
+http://tv.cdn.xsg.ge/guriatv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/2gAHTiD.png" , HOBOE RU
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
@@ -321,6 +342,12 @@ http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/NnNmvbK.png" , M2 Ukraine								
 https://live.m2.tv/hls3/stream.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/bHFmUw1.png" , MN TV Music IN
+http://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/94yndw5.jpg" , Music One IN
+http://media.7starcloud.com:1935/musicone/livetv/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/dKpLbh6.png" , Music Top Argentina
 https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 
@@ -333,6 +360,9 @@ http://haititivi.com:8088/haititv/tele6NY/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Fjdu8LO.png" , Navahang TV Iran
 http://163.172.134.85/hls/stream.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/fcYTHFv.png" , NG GR
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qlI3mIz.jpg" , NR1 TURK
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
@@ -341,6 +371,9 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17c
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" , NRJ Hits TV BE
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/3I3b6mf.png" , NRG 91 GR
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qiGrf6k.png" , NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -372,11 +405,8 @@ https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/e54t8pC.png" , POWER HD
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/ubEUBmB.png" , Radio 21 TV DE
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/w6ViBlV.png" , Radio 21 TV DE
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Vmxfdmy.png" , RTL 102.5 TV IT
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/kzvsNo2.png" , Radio Birikina TV IT
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
@@ -408,11 +438,14 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/tj0Yia8.png" , Radio TV Priggipesa GR
 https://itv.streams.ovh/priggipesa/priggipesa/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="ttps://i.imgur.com/IktuwaW.jpg" , Raasi Music IN
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/IktuwaW.jpg" , Rasi Music IN
 http://singamcloud.in/rasimusic/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qz2R7ca.png" , Retro Plus TV Peru
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Vmxfdmy.png" , RTL 102.5 TV IT
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/0ujfLYr.png" , RU TV HD
 https://rutv.gcdn.co/streams/1410_95/playlist.m3u8
@@ -447,17 +480,32 @@ http://songtvru.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Mrj4D9n.png" , Sonus FM Germany
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/pLWxJqh.png" , Sooriyan TV IN
+https://59d39900ebfb8.streamlock.net/Jaffnatv/Jaffnatv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/nwxCDxG.png" , Steelbird Music IN
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" , Telemax Mexico
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/HsYLNkF.png" , THBT Vietmam
 http://vietcago.net/vstv/bentretv.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jaNwymO.png" , Tile Mousiki GR
+http://wpso.com:1936/hls/music1.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/elbZrpY.png" , TMS Senegal
 https://58e4d59f4ba2c.streamlock.net/rezopropartner_1/rezopropartner_1/chunklist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/yeYeVvq.png" , TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/R5YhXUK.png" , TV 16 Toronto IN
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/6NJ2kdx.png" , TV MAX GE
+http://tv.cdn.xsg.ge/tvmax/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imgur.com/eEoRNnt.png" , Urban Revolution TV ES
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
@@ -476,6 +524,9 @@ https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/YBZecQA.jpg" , Xalastra TV GR
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/hO1ZtLi.png" , Zhar Ptica TV RU
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 
 #EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/oVBCXY3.png" , TV Hronka Slovakia
 http://213.81.153.221:8080/hronka
