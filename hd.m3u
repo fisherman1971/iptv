@@ -15,6 +15,15 @@ http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
 #EXTINF:-1 group-title="HUNTING" tvg-logo="https://i.imgur.com/3qB3JL7.png" , Caçavision Portugal
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 
+#EXTINF:-1 group-title="LIFE" tvg-logo="https://i.imgur.com/PsJIYoy.png" , Horse & Country TV
+https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
+
+#EXTINF:-1 group-title="LIFE" tvg-logo="https://i.imgur.com/vmD5Rt0.png" , Superyacht TV
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+
+#EXTINF:-1 group-title="LIFE" tvg-logo="https://i.imgur.com/Hip6849.png" , The Boat Show
+https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
+
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://i.imgur.com/hAP31zj.jpg" , Norway Live
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
