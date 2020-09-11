@@ -222,6 +222,12 @@ http://win1.yayin.com.tr/cine5/cine5/.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/TCTYqrZ.png" , LEBLEBI TV
 http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
 
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/qrMAJG8.png" , SLOW KARADENIZ TV
+https://slowkaradeniztv.yayin.com.tr/slowkaradeniztv/smil:slowkaradeniztv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/pTsUQ56.png" , VIZYON TV
+https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w1148765115.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/rvQhvNj.png" , 1 HD MUSIC TELEVISION RU
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
@@ -528,15 +534,6 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/hO1ZtLi.png" , Zhar Ptica TV RU
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 
-#EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/oVBCXY3.png" , TV Hronka Slovakia
-http://213.81.153.221:8080/hronka
-
-#EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/CqwVySN.png" , TV1 KG Kyrgyzstan
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/ErFj6rR.png" , Xplore TV GR
-http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/PITp6xA.jpg" , Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
@@ -666,19 +663,7 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/fmKPokt.png" , TVS Canal 22 Dominique
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/lKl2wZH.png" , Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/9q8gFsq.png" , Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/U6XDpXY.png" , Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/8VqomZ5.png" , Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="" https://i.imgur.com/w4J9hf1.png, adjarasport 1
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/w4J9hf1.png" , adjarasport 1
 http://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/w4J9hf1.png" , adjarasport 2
@@ -687,59 +672,8 @@ http://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/fVvCoxZ.png" , Africa Sports TV FR
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/ThVbcVq.png" , Al Kass Sports 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/ThVbcVq.png" , Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/ThVbcVq.png" , Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/ThVbcVq.png" , Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/ThVbcVq.png" , Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/eytrf0Y.png" , Dubai Racing 1
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/eytrf0Y.png" , Dubai Racing 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/eytrf0Y.png" , Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/iYgHR5D.png" , Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/qBdOZ1x.png" , Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" , Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" , Fox Sport News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/OxIKeaX.jpg" , GOLTV Uruguay
-https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8
-
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/387jXC7.jpg" , KOK Fights Lithuania
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/OwaJr1I.png" , Oman Sport
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/85D9kPy.png" , Rugby TV GE
-http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" , Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/0AiJcrC.png" , Thairath TV 32 Thailand
-https://live.thairath.co.th/trtv2/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/LIk85IA.png" , BamBarBia TV Ukraine					 	
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
@@ -749,9 +683,6 @@ http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 
 #EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/nCBtpGO.png" , Travel Guide TV Ukraine						
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-
-#EXTINF:-1 group-title="WEATHER" tvg-logo="https://i.imgur.com/tYZz5CC.png" , Weather News JP
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/TUoqzsg.jpg" , Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
