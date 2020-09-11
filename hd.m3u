@@ -537,6 +537,99 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-logo="https://i.imgur.com/ErFj6rR.png" , Xplore TV GR
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/PITp6xA.jpg" , Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" , Arirang TV South Korea
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" , Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/eNPIQ9f.png" , BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/Nx0BRdV.png" , BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/6g7zB78.png" , BeritaSatu Indonesia
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" , Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/idRFfhY.png" , Bloomberg TV UK
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/pcpSfMD.png" , CBBC UK
+http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/EGsiAwV.jpg" , Channel NewsAsia Indonesia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/Rd94sAX.png" , CNA HD Singapore
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/53EgUZN.png" , CNBC Europe 
+http://ott-cdn.ucom.am/s65/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/JO3TM42.png" , CNBC TV18 India
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/HGc2PwF.jpg" , CNN
+http://mainevents.icu:8000/49122012AM4984920/47122012AM4784720/79953
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/Z9mtDne.png" , CPAC Canada
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/kJcwaOU.png" , Deutsche Welle
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/avIsx8W.png" , EMCI TV Montreal Canada
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/EH24utk.jpg" , Euronews
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/61MSiq9.png" , France 24 (Opt-1)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/61MSiq9.png" , France 24 (Opt-2)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/6p0TK7e.png" , Fresh News Cambodia
+http://167.99.65.12:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/11onCOs.png" , India Ahead
+http://p-indiaahead.planetcast.in/01.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/M2zAN9M.png" , India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/SQISXoD.jpg" , NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/ULzpPky.png" , RT UK
+https://rt-uk.secure.footprint.net/1106.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/IXZ04Qo.png" , RTE News Ireland
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/WvNd8yg.png" , Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/Wl0iGsD.png" , Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/Wl0iGsD.png" , Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/Wl0iGsD.png" , Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/x5Mdzwv.png" , TeleSUR Venezuela
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/4bjDc8M.png" , AFN TV
 https://unirtmp.tulix.tv/tintv2/tintv2/playlist.m3u8
 
