@@ -165,7 +165,7 @@ https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/y1LQk44.png" , Aniplus Indonesia
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/myuUvgO.jpg" , Aniplus Philippines
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/y1LQk44.png" , Aniplus Philippines
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zPQaGbt.jpg" , Hodhod Iran
@@ -675,13 +675,13 @@ https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasports
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/387jXC7.jpg" , KOK Fights Lithuania
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/LIk85IA.png" , BamBarBia TV Ukraine					 	
+#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/ZHjpmxU.png" , BamBarBia TV Ukraine					 	
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 
-#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" , This is BG
+#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/osmWEVV.png" , This is Bulgaria
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 
-#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/nCBtpGO.png" , Travel Guide TV Ukraine						
+#EXTINF:-1 group-title="TRAVEL" tvg-logo="https://i.imgur.com/tM5K5mF.jpg" , Travel Guide TV Ukraine						
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/TUoqzsg.jpg" , Jasmin TV
